@@ -1,4 +1,5 @@
 {
+  "homepage": "https://Kim5Possible.github.io/react-tictacoe-game/",
   "name": "react-tic-tac-toe",
   "version": "0.1.0",
   "private": true,
@@ -39,6 +40,5 @@
   },
   "devDependencies": {
     "gh-pages": "^6.1.1"
-  },
-  "homepage": "https://Kim5Possible.github.io/react-tictacoe-game/"
+  }
 }
