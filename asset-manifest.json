@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/react-tictacoe-game/static/css/main.e0e3f4d1.css",
-    "main.js": "/react-tictacoe-game/static/js/main.1fdef35b.js",
-    "static/js/453.70f66972.chunk.js": "/react-tictacoe-game/static/js/453.70f66972.chunk.js",
-    "static/media/end.wav": "/react-tictacoe-game/static/media/end.663aa4b68eba394130fa.wav",
-    "static/media/click.wav": "/react-tictacoe-game/static/media/click.e462a2c91a9b168f6841.wav",
-    "static/media/reset.wav": "/react-tictacoe-game/static/media/reset.70212daf6137275544c6.wav",
-    "index.html": "/react-tictacoe-game/index.html",
-    "main.e0e3f4d1.css.map": "/react-tictacoe-game/static/css/main.e0e3f4d1.css.map",
-    "main.1fdef35b.js.map": "/react-tictacoe-game/static/js/main.1fdef35b.js.map",
-    "453.70f66972.chunk.js.map": "/react-tictacoe-game/static/js/453.70f66972.chunk.js.map"
+    "main.css": "/react-tictactoe-game/static/css/main.e0e3f4d1.css",
+    "main.js": "/react-tictactoe-game/static/js/main.6d727ced.js",
+    "static/js/453.70f66972.chunk.js": "/react-tictactoe-game/static/js/453.70f66972.chunk.js",
+    "static/media/end.wav": "/react-tictactoe-game/static/media/end.663aa4b68eba394130fa.wav",
+    "static/media/click.wav": "/react-tictactoe-game/static/media/click.e462a2c91a9b168f6841.wav",
+    "static/media/reset.wav": "/react-tictactoe-game/static/media/reset.70212daf6137275544c6.wav",
+    "index.html": "/react-tictactoe-game/index.html",
+    "main.e0e3f4d1.css.map": "/react-tictactoe-game/static/css/main.e0e3f4d1.css.map",
+    "main.6d727ced.js.map": "/react-tictactoe-game/static/js/main.6d727ced.js.map",
+    "453.70f66972.chunk.js.map": "/react-tictactoe-game/static/js/453.70f66972.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e0e3f4d1.css",
-    "static/js/main.1fdef35b.js"
+    "static/js/main.6d727ced.js"
   ]
 }
