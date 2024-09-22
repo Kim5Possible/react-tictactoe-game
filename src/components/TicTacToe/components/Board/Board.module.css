@@ -1,0 +1,67 @@
+.board {
+  cursor: pointer;
+  display: grid;
+  position: relative;
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-rows: repeat(3, 1fr);
+  gap: 4px;
+  width: 300px;
+  height: 300px;
+}
+
+.strike {
+  position: absolute;
+  background-color: var(--color-red);
+}
+
+.strike-row-1 {
+  width: 95%;
+  height: 4px;
+  top: 15%;
+  left: 2.5%;
+}
+
+.strike-row-2 {
+  width: 95%;
+  height: 4px;
+  top: 48%;
+  left: 2.5%;
+}
+.strike-row-3 {
+  width: 95%;
+  height: 4px;
+  top: 83%;
+  left: 2.5%;
+}
+.strike-column-1 {
+  height: 95%;
+  width: 4px;
+  left: 15%;
+  top: 2.5%;
+}
+.strike-column-2 {
+  height: 95%;
+  width: 4px;
+  left: 48%;
+  top: 2.5%;
+}
+.strike-column-3 {
+  height: 95%;
+  width: 4px;
+  left: 83%;
+  top: 2.5%;
+}
+.strike-diagonal-1 {
+  width: 90%;
+  height: 4px;
+  top: 50%;
+  left: 5%;
+  transform: skewY(45deg);
+}
+.strike-diagonal-2 {
+  width: 90%;
+  height: 4px;
+  top: 50%;
+  left: 5%;
+  transform: skewY(-45deg);
+}

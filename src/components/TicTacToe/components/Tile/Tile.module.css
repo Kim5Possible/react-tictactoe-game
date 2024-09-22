@@ -1,0 +1,32 @@
+.tile {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 100%;
+  background-color: var(--color-purple-light);
+  border-radius: var(--border-radius);
+  font-size: 40px;
+}
+
+.tile:hover {
+  box-shadow: var(--box-shadow);
+}
+
+.xColor {
+  color: var(--color-blue);
+}
+
+.oColor {
+  color: var(--color-green);
+}
+
+.xTile:hover::after {
+  content: "X";
+  opacity: 0.5;
+}
+
+.oTile:hover::after {
+  content: "O";
+  opacity: 0.5;
+}

@@ -1,0 +1,5 @@
+.game-end {
+  color: var(--color-purple-light);
+  font-size: 40px;
+  text-align: center;
+}
