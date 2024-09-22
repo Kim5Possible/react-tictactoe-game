@@ -39,5 +39,6 @@
   },
   "devDependencies": {
     "gh-pages": "^6.1.1"
-  }
+  },
+  "homepage": "https://Kim5Possible.github.io/react-tictacoe-game/"
 }
