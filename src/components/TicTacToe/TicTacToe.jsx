@@ -86,12 +86,6 @@ export default function TicTacToe() {
     }
   }, [tiles]);
 
-  // useEffect(() => {
-  //   const soundToPlay =
-  //     gameState !== GameState.IN_PROGRESS ? endSound : resetSound;
-  //   soundToPlay.play();
-  // }, [gameState]);
-
   useEffect(() => {
     if (gameState !== GameState.IN_PROGRESS) {
       endSound.play();
